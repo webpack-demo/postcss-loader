@@ -4,7 +4,7 @@
 $ npm install postcss-loader autoprefixer -D
 ```
 
-与 autoprefixer 为例，先配置 postcss-loader
+以 autoprefixer 为例，先对 css 文件配置 postcss-loader
 
 然后新建 postcss.config.js 文件，在这里指定要用的 postcss 插件
 
